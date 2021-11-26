@@ -428,38 +428,38 @@ interface WordPair {
 const wordPool: WordPair[] = [
     {
         wrong: "اللاح",
-        right: "ﷲ",
+        right: "ﷲ"
     },
     {
         wrong: "آللاح",
-        right: "ﷲ",
+        right: "ﷲ"
     },
     {
         wrong: "ایࢉەقڄیيا",
-        right: "اینيەقڄیيا",
+        right: "اینيەقڄیيا"
     },
     {
         wrong: "ناجیو",
-        right: "نادژیو",
+        right: "نادژیو"
     },
     {
         wrong: "جەننەت",
-        right: "جەنّەت",
+        right: "جەنّەت"
     },
     {
         wrong: "جەحەننەم",
-        right: "جەحەنّەم",
+        right: "جەحەنّەم"
     },
     {
         wrong: "مۆحاممەد",
-        right: "مۆحامّەد",
+        right: "مۆحامّەد"
     },
     {
         wrong: "حاننا",
-        right: "حانّا",
+        right: "حانّا"
     },
     {
         wrong: "قۆر'ان",
-        right: "قرآن",
-    },
+        right: "قرآن"
+    }
 ]
